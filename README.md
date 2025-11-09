@@ -101,7 +101,6 @@ You should see the main window with input fields (description, amount, category,
 │   └── 📘 CNNvsRNN_MNIST.ipynb
 └──  📄 README.md
 ```  
-Feel free to reorganize as needed (e.g., split UI vs data access modules).
 
 ---
 
