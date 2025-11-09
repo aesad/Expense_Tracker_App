@@ -69,19 +69,15 @@ Make sure you have:
 ### Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/expense-tracker.git
-   cd expense-tracker
+   git clone https://github.com/aesad/Expense_Tracker_App.git
+   cd Expense_Tracker_App
    ```  
 2. (Optional) Create & activate a virtual environment:  
    ```sh
    python3 -m venv venv
    source venv/bin/activate    # On Windows: venv\Scripts\activate
    ```  
-3. Install dependencies:  
-   ```sh
-   pip install -r requirements.txt
-   ```  
-4. Ensure MongoDB is running and accessible at the configured URI (default: `mongodb://localhost:27017/`).
+3. Ensure MongoDB is running and accessible at the configured URI (default: `mongodb://localhost:27017/`).
 
 ### Usage  
 Run the main application script:  
@@ -99,11 +95,11 @@ You should see the main window with input fields (description, amount, category,
 
 ## Project Structure  
 ```
-expense-tracker/
-├── app.py               # Main application script
-├── requirements.txt     # Python dependencies
-├── README.md            # This file
-└── …                    # (Optional additional modules / assets)
+📂 Expense_Tracker_App
+├── 📁 Expense_Tracker_App
+│   ├── app.py                   # Main application script
+│   └── 📘 CNNvsRNN_MNIST.ipynb
+└──  📄 README.md
 ```  
 Feel free to reorganize as needed (e.g., split UI vs data access modules).
 
@@ -120,23 +116,6 @@ Here are a few ideas for future enhancements:
 
 ---
 
-## Contributing  
-Contributions are welcome! If you’d like to contribute:  
-1. Fork this repository.  
-2. Create a new branch (`git checkout -b feature/YourFeature`).  
-3. Make your changes and commit (`git commit -m 'Add some feature'`).  
-4. Push to the branch (`git push origin feature/YourFeature`).  
-5. Open a pull request and describe the changes you’ve made.  
-
-Please ensure code is well-commented and includes tests if applicable.
-
----
-
-## License  
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
-
----
-
 ## Author  
-Your Name — [your.email@example.com](mailto:your.email@example.com)  
-GitHub: [https://github.com/your-username](https://github.com/your-username)  
+Abderrahmane SADOK — [abderrahmane.sadok.compte@gmail.com](mailto:abderrahmane.sadok.compte@gmail.com)  
+GitHub: [https://github.com/aesad](https://github.com/aesad)  
